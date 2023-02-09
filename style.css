@@ -31,10 +31,3 @@ h1 {
     text-align: center;
     width: 100%;
 }
-
-.obrazek {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:fit-content;
-}
