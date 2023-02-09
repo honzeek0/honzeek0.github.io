@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(14, 14, 14);
 }
 ::selection {
     background-color: pink;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 h1 {
     font-family: 'Roboto Slab', monospace;
@@ -11,6 +11,7 @@ h1 {
     text-align: center;
     font-size: 60px;
     text-transform: uppercase; 
+    color: grey;
 }
 .name {
     font-family: 'Roboto Slab', monospace;
@@ -37,4 +38,3 @@ h1 {
     margin-right: auto;
     width:fit-content;
 }
-
